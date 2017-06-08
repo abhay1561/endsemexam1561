@@ -73,4 +73,8 @@ public class Tv {
 		
 		
 		}
+	public int getchan()
+	{
+		return this.channel;
+	}
 }
